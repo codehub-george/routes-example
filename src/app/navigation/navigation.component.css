@@ -1,0 +1,13 @@
+:host {
+    background-color: bisque;
+    display: block;
+}
+
+nav {
+    padding: 20px;
+}
+
+span {
+    padding: 10px;
+    cursor: pointer;
+}
